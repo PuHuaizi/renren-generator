@@ -22,7 +22,7 @@
 		<mysql.version>8.0.28</mysql.version>
 		<druid.version>1.0.28</druid.version>
 		<commons.lang.version>2.6</commons.lang.version>
-		<commons.io.version>2.7</commons.io.version>
+		<commons.io.version>2.14.0</commons.io.version>
 		<commons.configuration.version>1.10</commons.configuration.version>
 		<fastjson.version>1.2.83</fastjson.version>
 		<velocity.version>2.2</velocity.version>
